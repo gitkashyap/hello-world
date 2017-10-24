@@ -1,2 +1,3 @@
 # hello-world
-this is my very first github repository let's see how far can I go...
+I have created this github account as a first step in proffessional programming world.
+May be it's right thinking.
